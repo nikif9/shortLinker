@@ -38,11 +38,6 @@ CREATE TABLE `short` (
 --
 
 INSERT INTO `short` (`id`, `link`, `shortLink`) VALUES
-(1, 'http://localhost/short/index', 'fboWN'),
-(2, 'https://www.google.com/', 'dv0Mn'),
-(3, 'http://localhost/short/', 'uhoQf'),
-(4, 'http://test.com', 'w79Pi'),
-(5, 'https://google.com', 'LekWR');
 
 --
 -- Индексы сохранённых таблиц
